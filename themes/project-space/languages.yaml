@@ -1,0 +1,86 @@
+en:
+  THEME_PROJECTSPACE:
+    ADMIN:
+      CATEGORIES:
+        LABEL: Categories
+        HELP: Sets the available categories
+      TRUNCATE:
+        LABEL: Truncate words
+        HELP: Limits the amount of words in each note, to an integer or boolean state for default (40)
+      SUBTITLE: Subtitle
+      STYLE: Style
+      HEADERIMAGE:
+        LABEL: Image for thumbnail and header
+        HELP: Sets the image to use as thumbnail and header
+      CATEGORY:
+        LABEL: Category
+        HELP: Sets the state of the project
+      TAGS:
+        LABEL: Tags
+        HELP: Applies tags to the project
+      COLOR:
+        LABEL: Background color
+        HELP: Sets the background color for the note
+        OPTIONS:
+          WHITE: White
+          RED: Red
+          ORANGE: Orange
+          YELLOW: Yellow
+          GREEN: Green
+          TEAL: Teal
+          BLUE: Blue
+          DARKBLUE: Dark Blue
+          PURPLE: Purple
+          PINK: Pink
+          BROWN: Brown
+          GRAY: Gray
+    HOME: Home
+    MENU:
+      TITLE: Menu
+    BLOG:
+      CONTINUE_READING: Read More
+      POST:
+        MORE:
+          AUTHOR: More posts by this author
+          SPEC_AUTHOR: More posts by
+        SHARE: Share this post
+      PAGINATION:
+        OLDER: Older posts
+        NEWER: Newer posts
+        FIRST: First
+        LAST: Last
+        PAGE:
+          PAGE: Page
+          OF: of
+      SUBSCRIBE: Subscribe
+    TOOLS:
+      TITLE: Tools
+      SUBMIT: Apply
+      DISPLAY:
+        MENU: Display
+        BLOCKS: Blocks
+        LIST: List
+        CATEGORY: Category
+        COLOR: Color
+      SORT:
+        MENU: Sort
+        TITLE: Title
+        DATE: Date
+        FOLDER: Folder
+        ASC: Ascending
+        DESC: Descending
+      FILTER:
+        MENU: Filter
+        BY: by
+        CATEGORY: Category
+        COLOR: Color
+        DATE: Date
+        TAG: Tag
+      DATE:
+        MENU: Date range
+    EMPTY:
+      TITLE: No projects found...
+      CONTENT: Try changing the settings in the tools-menu, or visit another page
+    ERROR:
+      404: Page Not Found
+

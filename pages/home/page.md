@@ -1,6 +1,8 @@
 ---
 title: Home
-body_classes: title-center title-h1h2
+body_classes: 'title-center title-h1h2'
+content:
+    items: '@root.children'
 ---
 
 # Say Hello to Grav!

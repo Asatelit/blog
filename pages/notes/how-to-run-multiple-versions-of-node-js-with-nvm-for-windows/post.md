@@ -18,7 +18,7 @@ taxonomy:
 
 #### Решение
 
-Скачиваем и устанавливаем последнюю версию NVM отсюда[отсюда](https://github.com/coreybutler/nvm-windows/releases).
+Скачиваем и устанавливаем последнюю версию NVM [отсюда](https://github.com/coreybutler/nvm-windows/releases).
 Дальше, в коммандной строке, устанавливаем необходимую версию ноды:  
 ```bash
 nvm install 10.12.7 64

@@ -2,13 +2,14 @@
 title: 'Устанавливаем несколько версий Node.js с помощью nvm в Windows'
 color: white
 truncate: 40
-date: '17:29 25-10-2019'
+date: '17:29 31-10-2019'
 taxonomy:
     category: Notes
     tag:
         - nodejs
         - windows
-        - faq
+        - howto
+        - nvm
 ---
 
 #### Проблема
@@ -17,8 +18,8 @@ taxonomy:
 
 #### Решение
 
-Скачиваем и устанавливаем Node.js version manager for Windows отсюда. https://github.com/coreybutler/nvm-windows/releases
-Дальше, в коммандной строке, устанавливаете необходимую вам версию ноды:  
+Скачиваем и устанавливаем последнюю версию NVM отсюда[отсюда](https://github.com/coreybutler/nvm-windows/releases).
+Дальше, в коммандной строке, устанавливаем необходимую версию ноды:  
 ```bash
 nvm install 10.12.7 64
 ```
@@ -38,3 +39,7 @@ node --version
 nvm list
 nvm use 12.13.0
 ```
+
+#### Ссылки
+[Node.js version manager for Windows](https://github.com/coreybutler/nvm-windows/)
+[Релизы Node.js](https://nodejs.org/uk/download/releases/)

@@ -41,5 +41,5 @@ nvm use 12.13.0
 ```
 
 #### Ссылки
-[Node.js version manager for Windows](https://github.com/coreybutler/nvm-windows/)
-[Релизы Node.js](https://nodejs.org/uk/download/releases/)
+- [Node.js version manager for Windows](https://github.com/coreybutler/nvm-windows/)
+- [Релизы Node.js](https://nodejs.org/uk/download/releases/)

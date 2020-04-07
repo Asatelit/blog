@@ -1,6 +1,0 @@
-{
-    "minimum-stability": "dev",
-    "require": {
-        "antoligy/dom-string-iterators": "^1.0"
-    }
-}

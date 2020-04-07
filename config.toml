@@ -1,0 +1,6 @@
+baseURL = "blog.asatelit.com"
+languageCode = "ru"
+title = "Asatelit's Blog"
+theme = "hyde"
+publishDir = "docs"
+pygmentsStyle = "native"
